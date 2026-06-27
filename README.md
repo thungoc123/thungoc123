@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**thungoc123/thungoc123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Thu Nguyen**, a 23-year-old AI Product enthusiast from Vietnam.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Graduated from **FPT University** (June 2026)
+* 🤖 Currently working in **AI Product**
+* 🧩 Passionate about solving problems and building products that create real value
+* 🇬🇧 English proficiency: **IELTS 5.0 Overall**
+* 🚀 My goal is to become an **AI & Robotics Product Expert** within the next 10 years
+
+## Contact
+
+* 📧 Email: **[nguyenthunngoc@gmail.com](mailto:nguyenthunngoc@gmail.com)**
+* 🌐 Portfolio: **[https://your-website.com](https://damominee.vercel.app/)**
+
+Feel free to reach out if you'd like to discuss AI, Product Management, Robotics, technology, or any interesting ideas.
+
+Thanks for stopping by! 😊
