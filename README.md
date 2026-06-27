@@ -13,7 +13,7 @@ I'm **Thu Nguyen**, a 23-year-old AI Product enthusiast from Vietnam.
 ## Contact
 
 * 📧 Email: **[nguyenthunngoc@gmail.com](mailto:nguyenthunngoc@gmail.com)**
-* 🌐 Portfolio: **[https://your-website.com](https://damominee.vercel.app/)**
+* 🌐 Portfolio: **[(https://damominee.vercel.app)](https://damominee.vercel.app/)**
 
 Feel free to reach out if you'd like to discuss AI, Product Management, Robotics, technology, or any interesting ideas.
 
