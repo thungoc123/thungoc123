@@ -2,6 +2,7 @@
 
 <img src="damominee-logo-08.png" alt="DAMOMINEE Logo" width="250"/>
 
+</div>
 # Hi there 👋
 
 I'm **Thu Nguyen**, a 23-year-old AI Product enthusiast from Vietnam.
@@ -30,4 +31,3 @@ I'm **Thu Nguyen**, a 23-year-old AI Product enthusiast from Vietnam.
 
 **Thanks for stopping by! 😊**
 
-</div>
