@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/damominee-logo-08.png" alt="DAMOMINEE Logo" width="250"/>
+<img src="damominee-logo-08.png" alt="DAMOMINEE Logo" width="250"/>
 
 # Hi there 👋
 
